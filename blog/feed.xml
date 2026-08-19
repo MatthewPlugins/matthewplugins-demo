@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Automatic AI Lab — baza wiedzy</title>
+    <link>https://automaticai.pl/blog/</link>
+    <description>Praktyczna wiedza o AI, automatyzacji i technologiach: od pierwszych kroków po techniczne deep dive’y.</description>
+    <language>pl-PL</language>
+    <copyright>© 2026 Automatic AI</copyright>
+    <lastBuildDate>Fri, 14 Aug 2026 09:00:00 GMT</lastBuildDate>
+    <atom:link href="https://automaticai.pl/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI w firmie — od czego naprawdę zacząć?</title>
+      <link>https://automaticai.pl/blog/ai-w-firmie-od-czego-zaczac/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/ai-w-firmie-od-czego-zaczac/</guid>
+      <description>Nie od wyboru narzędzia i nie od zatrudniania „specjalisty od AI”. Pierwszy krok jest nudniejszy i tańszy: znaleźć jeden proces, który boli najbardziej. Pokazujemy, jak to zrobić w tydzień.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Mariusz Perzyński</dc:creator>
+      <category>AI dla biznesu</category>
+    </item>
+    <item>
+      <title>RAG — czym jest i kiedy ma sens?</title>
+      <link>https://automaticai.pl/blog/rag-czym-jest-i-kiedy-ma-sens/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/rag-czym-jest-i-kiedy-ma-sens/</guid>
+      <description>Model językowy nie zna Twoich dokumentów. RAG to sposób, żeby odpowiadał na ich podstawie — bez trenowania własnego modelu. Wyjaśniamy, jak działa i kiedy się opłaca.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Krzysztof Leszczyński</dc:creator>
+      <category>Technical</category>
+    </item>
+    <item>
+      <title>Claude vs ChatGPT — co wybrać do firmy?</title>
+      <link>https://automaticai.pl/blog/claude-vs-chatgpt-co-wybrac-dla-firmy/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/claude-vs-chatgpt-co-wybrac-dla-firmy/</guid>
+      <description>Nie ma jednej odpowiedzi, ale są konkretne kryteria. Porównujemy oba ekosystemy tak, jak wybiera się je do realnej pracy: interfejs dla zespołu, API do automatyzacji, praca na dokumentach i koszty.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Krzysztof Leszczyński</dc:creator>
+      <category>Narzędzia</category>
+    </item>
+    <item>
+      <title>Agent AI vs chatbot vs automatyzacja — czego naprawdę potrzebujesz?</title>
+      <link>https://automaticai.pl/blog/agent-ai-vs-chatbot-vs-automatyzacja/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/agent-ai-vs-chatbot-vs-automatyzacja/</guid>
+      <description>Te trzy pojęcia są używane zamiennie, a oznaczają zupełnie różne rzeczy — o różnych kosztach i różnym ryzyku. Prosty przewodnik, jak dobrać poziom rozwiązania do problemu.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Krzysztof Leszczyński</dc:creator>
+      <category>Agenci AI</category>
+    </item>
+    <item>
+      <title>Case study: jak zautomatyzowaliśmy kwalifikację leadów w firmie B2B</title>
+      <link>https://automaticai.pl/blog/jak-zautomatyzowalismy-kwalifikacje-leadow/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/jak-zautomatyzowalismy-kwalifikacje-leadow/</guid>
+      <description>Od 20 minut ręcznej analizy na każde zgłoszenie do kwalifikacji w 5 minut z uzasadnieniem. Przebieg wdrożenia etap po etapie: analiza, budowa, uruchomienie i to, co poszło nie po naszej myśli.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Zespół</dc:creator>
+      <category>Case study</category>
+    </item>
+    <item>
+      <title>Make vs n8n — które narzędzie automatyzacji wybrać?</title>
+      <link>https://automaticai.pl/blog/make-vs-n8n-ktore-narzedzie-wybrac/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/make-vs-n8n-ktore-narzedzie-wybrac/</guid>
+      <description>Dwa najpopularniejsze kombajny do automatyzacji, dwie różne filozofie. Porównujemy je tak, jak wybiera się je naprawdę: kosztami przy skali, elastycznością i tym, kto będzie to utrzymywał.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Konrad Szydłowski</dc:creator>
+      <category>Narzędzia</category>
+    </item>
+    <item>
+      <title>Embeddings — po co są i jak działają w praktyce?</title>
+      <link>https://automaticai.pl/blog/embeddings-po-co-sa/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/embeddings-po-co-sa/</guid>
+      <description>Embeddingi zamieniają tekst na liczby, które niosą znaczenie. To one sprawiają, że wyszukiwanie znajduje „urlop” po zapytaniu o „wolne”. Wyjaśniamy bez matematyki — i z jednym wzorem, który warto znać.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Krzysztof Leszczyński</dc:creator>
+      <category>Technical</category>
+    </item>
+    <item>
+      <title>MCP — co to jest i dlaczego warto je znać?</title>
+      <link>https://automaticai.pl/blog/mcp-co-to-jest-i-dlaczego-warto-znac/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/mcp-co-to-jest-i-dlaczego-warto-znac/</guid>
+      <description>Model Context Protocol to otwarty standard łączenia modeli AI z narzędziami i danymi firmy. Zamiast pisać osobną integrację dla każdej pary „model + system”, piszesz jeden serwer MCP.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Krzysztof Leszczyński</dc:creator>
+      <category>Technical</category>
+    </item>
+    <item>
+      <title>10 procesów, które najczęściej warto zautomatyzować w pierwszej kolejności</title>
+      <link>https://automaticai.pl/blog/10-procesow-ktore-warto-zautomatyzowac/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/10-procesow-ktore-warto-zautomatyzowac/</guid>
+      <description>Lista sprawdzona w praktyce: dziesięć procesów, które w małych i średnich firmach zwracają się najszybciej — z krótkim opisem, co konkretnie robi automat i od czego zależy opłacalność.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Konrad Szydłowski</dc:creator>
+      <category>AI dla biznesu</category>
+    </item>
+    <item>
+      <title>5 błędów podczas wdrażania AI, które widzimy najczęściej</title>
+      <link>https://automaticai.pl/blog/5-bledow-podczas-wdrazania-ai/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/5-bledow-podczas-wdrazania-ai/</guid>
+      <description>Nie technologia zabija projekty AI — zabijają je decyzje z pierwszych dwóch tygodni. Pięć błędów, które oglądamy regularnie, i proste sposoby, żeby ich nie popełnić.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Mariusz Perzyński</dc:creator>
+      <category>Strategia</category>
+    </item>
+    <item>
+      <title>Jak policzyć ROI z automatyzacji — bez czarów i bez Excela na 40 zakładek</title>
+      <link>https://automaticai.pl/blog/jak-policzyc-roi-z-automatyzacji/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/jak-policzyc-roi-z-automatyzacji/</guid>
+      <description>Prosty model liczenia zwrotu z automatyzacji, którego używamy przy wycenach: koszt procesu, koszt wdrożenia, koszt utrzymania — i trzy pułapki, przez które firmy liczą to źle.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Mariusz Perzyński</dc:creator>
+      <category>Strategia</category>
+    </item>
+    <item>
+      <title>Function calling — jak model AI wywołuje Twój kod</title>
+      <link>https://automaticai.pl/blog/function-calling-jak-dziala/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/function-calling-jak-dziala/</guid>
+      <description>Mechanizm, na którym stoi każdy agent i każda poważna integracja AI: model nie wykonuje kodu — prosi o wywołanie funkcji, a Twój system decyduje i odpowiada. Z przykładem krok po kroku.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Krzysztof Leszczyński</dc:creator>
+      <category>Technical</category>
+    </item>
+    <item>
+      <title>Automatyzacja leadów B2B — jak wygląda cały proces od formularza do CRM</title>
+      <link>https://automaticai.pl/blog/automatyzacja-leadow-b2b-caly-proces/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/automatyzacja-leadow-b2b-caly-proces/</guid>
+      <description>Od chwili, gdy ktoś wypełnia formularz, do umówionego spotkania mija u wielu firm kilka dni ręcznej pracy. Rozkładamy ten proces na części i pokazujemy, co automatyzować w jakiej kolejności.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Konrad Szydłowski</dc:creator>
+      <category>Automatyzacja</category>
+    </item>
+    <item>
+      <title>5 rzeczy, których nauczyliśmy się, budując rozwiązania AI</title>
+      <link>https://automaticai.pl/blog/czego-nauczylismy-sie-budujac-ai/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/czego-nauczylismy-sie-budujac-ai/</guid>
+      <description>Notatki z pola, bez lukru: o danych, które kłamią, użytkownikach, którzy obchodzą systemy, promptach, które nie są programowaniem, i o tym, dlaczego nudne rozwiązania wygrywają.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Zespół</dc:creator>
+      <category>Insights</category>
+    </item>
+    <item>
+      <title>Ile naprawdę kosztuje wdrożenie AI w firmie?</title>
+      <link>https://automaticai.pl/blog/ile-kosztuje-wdrozenie-ai/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/ile-kosztuje-wdrozenie-ai/</guid>
+      <description>Widełki, składniki kosztów i rzeczy, które dostawcy przemilczają. Bez obietnic „od 99 zł miesięcznie” i bez straszenia — konkretne przedziały dla trzech typowych poziomów wdrożeń.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Mariusz Perzyński</dc:creator>
+      <category>AI dla biznesu</category>
+    </item>
+    <item>
+      <title>Jak działa agent AI? Pętla, narzędzia i granice — od środka</title>
+      <link>https://automaticai.pl/blog/jak-dziala-agent-ai/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/jak-dziala-agent-ai/</guid>
+      <description>Rozbieramy agenta na części pierwsze: pętla decyzyjna, wywołania narzędzi, pamięć i mechanizmy bezpieczeństwa. Dla tych, którzy chcą rozumieć, a nie tylko używać.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Krzysztof Leszczyński</dc:creator>
+      <category>Agenci AI</category>
+    </item>
+    <item>
+      <title>Jak zaprojektować workflow AI krok po kroku</title>
+      <link>https://automaticai.pl/blog/jak-zaprojektowac-workflow-ai/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/jak-zaprojektowac-workflow-ai/</guid>
+      <description>Dobry workflow AI projektuje się od końca: najpierw definicja rezultatu i wyjątków, potem kroki, na końcu wybór modeli. Szkielet, którego używamy przy każdym wdrożeniu.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Konrad Szydłowski</dc:creator>
+      <category>Technical</category>
+    </item>
+    <item>
+      <title>Agent AI — co to właściwie jest? Wyjaśnienie bez technicznego bełkotu</title>
+      <link>https://automaticai.pl/blog/agent-ai-co-to-wlasciwie-jest/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/agent-ai-co-to-wlasciwie-jest/</guid>
+      <description>Słowo „agent” robi dziś za przyprawę do wszystkiego. Wyjaśniamy, czym agent AI różni się od zwykłego czatu z modelem — na przykładzie, który zna każda firma.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Krzysztof Leszczyński</dc:creator>
+      <category>Agenci AI</category>
+    </item>
+    <item>
+      <title>AI proof of concept — jak zacząć bez wielkiego budżetu?</title>
+      <link>https://automaticai.pl/blog/ai-proof-of-concept-jak-zaczac/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/ai-proof-of-concept-jak-zaczac/</guid>
+      <description>PoC nie służy do „sprawdzenia, czy AI działa” — służy do sprawdzenia, czy działa NA WASZYCH danych i procesach. Jak ustawić czterotygodniowy pilotaż, który kończy się decyzją, a nie prezentacją.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Mariusz Perzyński</dc:creator>
+      <category>Strategia</category>
+    </item>
+    <item>
+      <title>Jak znaleźć proces, który warto zautomatyzować? Audyt w 5 krokach</title>
+      <link>https://automaticai.pl/blog/jak-znalezc-proces-warty-automatyzacji/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/jak-znalezc-proces-warty-automatyzacji/</guid>
+      <description>Nie każda żmudna czynność opłaca się automatyzować. Prosty audyt, który robimy z klientami na starcie: pięć kroków od listy czynności do procesu z policzonym potencjałem.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Krzysztof Leszczyński</dc:creator>
+      <category>Automatyzacja</category>
+    </item>
+    <item>
+      <title>Kiedy firma naprawdę potrzebuje agenta AI? Pięć sygnałów</title>
+      <link>https://automaticai.pl/blog/kiedy-firma-potrzebuje-agenta-ai/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/kiedy-firma-potrzebuje-agenta-ai/</guid>
+      <description>Agent AI to najdroższy poziom automatyzacji — i czasem jedyny właściwy. Pięć sygnałów, że Twój proces przerósł zwykłe workflow, oraz trzy sytuacje, w których agent to przerost formy.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Mariusz Perzyński</dc:creator>
+      <category>Agenci AI</category>
+    </item>
+    <item>
+      <title>Kupować czy budować? Jak podjąć decyzję o rozwiązaniu AI</title>
+      <link>https://automaticai.pl/blog/kupowac-czy-budowac-rozwiazania-ai/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/kupowac-czy-budowac-rozwiazania-ai/</guid>
+      <description>Gotowy SaaS, budowa szyta na miarę, a pomiędzy — składanie z klocków. Framework decyzyjny, którego używamy z klientami, plus scenariusze, w których każda z opcji wygrywa.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Mariusz Perzyński</dc:creator>
+      <category>Strategia</category>
+    </item>
+    <item>
+      <title>Jak AI może odciążyć dział obsługi klienta — bez wkurzania klientów</title>
+      <link>https://automaticai.pl/blog/jak-automatyzowac-obsluge-klienta/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/jak-automatyzowac-obsluge-klienta/</guid>
+      <description>Automatyzacja obsługi kojarzy się z botem, który nie rozumie i nie przełącza do człowieka. Da się inaczej: warstwowo, z AI tam, gdzie pomaga, i człowiekiem tam, gdzie jest niezastąpiony.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Konrad Szydłowski</dc:creator>
+      <category>Automatyzacja</category>
+    </item>
+    <item>
+      <title>Jak agent AI może pracować z Twoim CRM?</title>
+      <link>https://automaticai.pl/blog/jak-agent-ai-moze-pracowac-z-crm/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/jak-agent-ai-moze-pracowac-z-crm/</guid>
+      <description>CRM to naturalne środowisko pracy agenta: dane są ustrukturyzowane, akcje policzalne, a każda zaoszczędzona minuta mnoży się przez cały zespół. Cztery scenariusze od najprostszego.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Konrad Szydłowski</dc:creator>
+      <category>Agenci AI</category>
+    </item>
+    <item>
+      <title>Supabase w projektach AI — baza, auth i wektory w jednym</title>
+      <link>https://automaticai.pl/blog/supabase-w-projektach-ai/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/supabase-w-projektach-ai/</guid>
+      <description>Dlaczego tak często wybieramy Supabase jako zaplecze aplikacji AI: PostgreSQL z pgvector, autoryzacja, storage i realtime w jednym, bez sklejania pięciu usług.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Krzysztof Leszczyński</dc:creator>
+      <category>Narzędzia</category>
+    </item>
+    <item>
+      <title>Czym jest automatyzacja procesów biznesowych — i czym nie jest?</title>
+      <link>https://automaticai.pl/blog/czym-jest-automatyzacja-procesow/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/czym-jest-automatyzacja-procesow/</guid>
+      <description>Automatyzacja to nie roboty i nie zwalnianie ludzi. To zdejmowanie z zespołu pracy, która nie wymaga myślenia — żeby czas szedł tam, gdzie myślenie jest potrzebne. Elementarz na start.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Konrad Szydłowski</dc:creator>
+      <category>Automatyzacja</category>
+    </item>
+    <item>
+      <title>Czy AI zastąpi pracowników? Uczciwa odpowiedź z perspektywy wdrożeń</title>
+      <link>https://automaticai.pl/blog/czy-ai-zastapi-pracownikow/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/czy-ai-zastapi-pracownikow/</guid>
+      <description>Nie zwalniamy ludzi — zdejmujemy z nich robotę, której nikt nie chce robić. Co naprawdę dzieje się z zespołami po automatyzacji: obserwacje z projektów, nie z nagłówków.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Mateusz Leszczyński</dc:creator>
+      <category>AI dla biznesu</category>
+    </item>
+    <item>
+      <title>Automatyzacja dokumentów: z PDF-a do systemu bez przepisywania</title>
+      <link>https://automaticai.pl/blog/automatyzacja-dokumentow-faktury-zlecenia/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/automatyzacja-dokumentow-faktury-zlecenia/</guid>
+      <description>Faktury, zlecenia, umowy — dokumenty to najbardziej niedoceniany obszar automatyzacji. Modele AI czytają dziś dowolne układy PDF-ów, a walidacja pilnuje, żeby błąd nie wszedł do ERP.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Krzysztof Leszczyński</dc:creator>
+      <category>Automatyzacja</category>
+    </item>
+    <item>
+      <title>AI hype vs realny biznes — co faktycznie działa w firmach?</title>
+      <link>https://automaticai.pl/blog/ai-hype-vs-realny-biznes/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/ai-hype-vs-realny-biznes/</guid>
+      <description>Po kilkunastu wdrożeniach mamy prostą obserwację: to, co działa, jest nudniejsze niż nagłówki, i to, co działa, prawie nigdy nie jest tym, o czym firma pytała na początku. Subiektywnie.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Mateusz Leszczyński</dc:creator>
+      <category>Insights</category>
+    </item>
+    <item>
+      <title>5 sygnałów, że Twój biznes traci czas przez ręczną pracę</title>
+      <link>https://automaticai.pl/blog/5-sygnalow-ze-firma-traci-czas/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/5-sygnalow-ze-firma-traci-czas/</guid>
+      <description>Niektóre koszty nie bolą, bo rozkładają się na drobne. Pięć codziennych sygnałów, że firma płaci „podatek od ręcznej pracy” — i szybki test, ile on u Ciebie wynosi.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Mateusz Leszczyński</dc:creator>
+      <category>AI dla biznesu</category>
+    </item>
+    <item>
+      <title>Czym jest n8n i dla kogo ma sens?</title>
+      <link>https://automaticai.pl/blog/czym-jest-n8n-i-dla-kogo/</link>
+      <guid isPermaLink="true">https://automaticai.pl/blog/czym-jest-n8n-i-dla-kogo/</guid>
+      <description>Narzędzie, które łączy Wasze systemy w automatyczne przepływy — z opcją własnego serwera i pełnej kontroli nad danymi. Krótkie wprowadzenie dla osób nietechnicznych.</description>
+      <pubDate>Fri, 14 Aug 2026 09:00:00 GMT</pubDate>
+      <dc:creator>Konrad Szydłowski</dc:creator>
+      <category>Narzędzia</category>
+    </item>
+  </channel>
+</rss>

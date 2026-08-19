@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[73195,["/_next/static/chunks/38-0q09o00240.js","/_next/static/chunks/0k-vg2_57rvod.js"],"Reveal"]
+3:I[73093,["/_next/static/chunks/38-0q09o00240.js","/_next/static/chunks/0k-vg2_57rvod.js"],"ProcessTimeline"]
+4:I[76525,["/_next/static/chunks/38-0q09o00240.js","/_next/static/chunks/0k-vg2_57rvod.js"],"Button"]
+5:I[5014,["/_next/static/chunks/38-0q09o00240.js","/_next/static/chunks/0k-vg2_57rvod.js"],"default"]
+6:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+a:X
+23:X
+23:C
+0:{"buildId":"6m8aR6o-B2MaUG48QI6ET","data":[{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"relative overflow-hidden","children":[["$","div",null,{"aria-hidden":true,"className":"bg-grid mask-fade-y absolute inset-0"}],["$","div",null,{"aria-hidden":true,"className":"glow-breathe absolute -top-32 right-[8%] size-[26rem] rounded-full bg-volt/[0.06] blur-[110px]"}],["$","div",null,{"aria-hidden":true,"className":"grain absolute inset-0 opacity-[0.04]"}],["$","div",null,{"className":"container-site relative pt-28 pb-10 md:pt-36 md:pb-14","children":[null,["$","$L2",null,{"from":"left","distance":24,"delay":0,"children":["$","p",null,{"className":"font-mono text-eyebrow tracking-label-5 text-volt uppercase","children":["[ ","Proces"," ]"]}]}],["$","$L2",null,{"from":"left","distance":36,"delay":0.08,"children":["$","h1",null,{"className":"mt-4 max-w-4xl text-page-title font-semibold tracking-display","children":"Od problemu do działającego rozwiązania."}]}],["$","$L2",null,{"from":"left","distance":28,"delay":0.14,"children":["$","p",null,{"className":"mt-4 max-w-2xl text-base leading-relaxed text-steel md:text-lg","children":"Przejrzysty proces w pięciu etapach. Zawsze wiesz, na czym stoimy, co dostaniesz i po czym poznamy, że wdrożenie działa."}]}],["$","$L2",null,{"from":"left","distance":20,"delay":0.2,"children":["$","div",null,{"className":"mt-6","children":["$","p",null,{"className":"font-mono text-label tracking-label-4 text-steel uppercase","children":"5 etapów · pierwsze efekty w tygodnie · KPI ustalone przed startem"}]}]}]]}]]}],["$","$L3",null,{}],["$","section",null,{"aria-label":"Kontakt","className":"border-t border-line bg-panel/30","children":["$","div",null,{"className":"container-site flex flex-col gap-6 py-12 md:flex-row md:items-center md:justify-between md:py-14","children":[["$","$L2",null,{"from":"left","distance":28,"children":["$","div",null,{"children":[["$","p",null,{"className":"font-mono text-label tracking-label-5 text-volt uppercase","children":"[ Kontakt ]"}],["$","h2",null,{"className":"mt-2 max-w-xl text-2xl font-semibold tracking-tight md:text-3xl","children":"Zacznijmy od etapu 01 — bezpłatnej rozmowy."}],["$","p",null,{"className":"mt-2 max-w-xl text-sm leading-relaxed text-steel md:text-base","children":"30 minut, konkretne pytania o Twoje procesy i szczera ocena, czy automatyzacja ma sens."}]]}]}],["$","$L2",null,{"from":"right","distance":28,"delay":0.1,"children":["$","$L4",null,{"href":"/kontakt","size":"lg","magnetic":true,"className":"btn-glow btn-sheen shrink-0","children":["Porozmawiajmy",["$","$L5",null,{"iconNode":[["path",{"d":"M5 12h14","key":"1ays0h"}],["path",{"d":"m12 5 7 7-7 7","key":"xquz4c"}]],"className":"lucide-arrow-right size-4 transition-transform group-hover:translate-x-0.5","aria-hidden":true}]]}]}]]}]}]],[["$","script","script-0",{"src":"/_next/static/chunks/0k-vg2_57rvod.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#08090b"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Proces współpracy — Automatic AI"}],["$","meta","1",{"name":"description","content":"Od rozpoznania po rozwój — pięć etapów zamieniających problem biznesowy w działające rozwiązanie AI. Mierniki ustalone przed startem, efekty w tygodnie."}],["$","meta","2",{"name":"application-name","content":"Automatic AI"}],["$","link","3",{"rel":"author","href":"https://automaticai.pl"}],["$","meta","4",{"name":"author","content":"Automatic AI"}],["$","link","5",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","6",{"name":"keywords","content":"AI,sztuczna inteligencja,automatyzacja,agenci AI,integracje,aplikacje AI,automatyzacja procesów"}],["$","meta","7",{"name":"referrer","content":"strict-origin-when-cross-origin"}],["$","meta","8",{"name":"creator","content":"Automatic AI"}],["$","meta","9",{"name":"robots","content":"noindex, nofollow"}],["$","link","10",{"rel":"canonical","href":"https://automaticai.pl/proces/"}],["$","link","11",{"rel":"alternate","type":"application/rss+xml","href":"https://automaticai.pl/blog/feed.xml","title":"Automatic AI Lab — baza wiedzy"}],"$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e"]}]}]}],"$L1f"]}],"isPartial":"$@20","staleTime":"$a","varyParams":null},{"rsc":"$L21","isPartial":"$@22","staleTime":"$a","varyParams":"$23"}],"isUpgradeableISRFallback":false,"a":"$@24","rootVaryParams":null,"needsRuntimeRequest":"$@25"}
+26:I[27201,["/_next/static/chunks/3fntmmi971322.js"],"IconMark"]
+27:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+28:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+8:null
+d:["$","meta","12",{"property":"og:title","content":"Automatic AI — Proces współpracy"}]
+e:["$","meta","13",{"property":"og:description","content":"Pięć etapów od problemu do działającego rozwiązania AI. Pierwsze efekty w tygodnie."}]
+f:["$","meta","14",{"property":"og:image","content":"https://automaticai.pl/opengraph-image.png"}]
+10:["$","meta","15",{"property":"og:image:type","content":"image/png"}]
+11:["$","meta","16",{"property":"og:image:width","content":"1200"}]
+12:["$","meta","17",{"property":"og:image:height","content":"630"}]
+13:["$","meta","18",{"property":"og:image:alt","content":"Automatic AI — AI, automatyzacja, rozwiązania dla firm"}]
+14:["$","meta","19",{"name":"twitter:card","content":"summary_large_image"}]
+15:["$","meta","20",{"name":"twitter:title","content":"Automatic AI — AI, automatyzacja, rozwiązania dla firm"}]
+16:["$","meta","21",{"name":"twitter:description","content":"Tworzymy rozwiązania AI, automatyzacje, agentów i dedykowane aplikacje, które pomagają firmom oszczędzać czas i skalować procesy."}]
+17:["$","meta","22",{"name":"twitter:image","content":"https://automaticai.pl/opengraph-image.png"}]
+18:["$","meta","23",{"name":"twitter:image:alt","content":"Automatic AI — AI, automatyzacja, rozwiązania dla firm"}]
+19:["$","meta","24",{"name":"twitter:image:type","content":"image/png"}]
+1a:["$","meta","25",{"name":"twitter:image:width","content":"1200"}]
+1b:["$","meta","26",{"name":"twitter:image:height","content":"630"}]
+1c:["$","link","27",{"rel":"icon","href":"/icon.svg?icon.281v3adc6sswn.svg","sizes":"any","type":"image/svg+xml"}]
+1d:["$","link","28",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.28_vw0_6uk7bs.png","sizes":"180x180","type":"image/png"}]
+1e:["$","$L26","29",{}]
+1f:["$","meta",null,{"name":"next-size-adjust","content":""}]
+21:["$","$1","c",{"children":[null,["$","$L27",null,{"parallelRouterKey":"children","template":["$","$L28",null,{}]}]]}]
+25:true
+a:300
+a:C
+24:0
+20:"$undefined"
+22:"$undefined"
+9:"$undefined"

@@ -1,0 +1,64 @@
+# Nagłówki bezpieczeństwa dla hostingów, które czytają ten plik
+# (Netlify, Cloudflare Pages). GitHub Pages GO IGNORUJE — nie ma tam
+# żadnego sposobu na własne nagłówki HTTP, więc dopóki podgląd stoi
+# na Pages, ten plik nic nie robi i tak ma być.
+#
+# Dlaczego mimo to leży w repo: cztery pozycje z docs/security-checklist.md
+# są zablokowane wyłącznie na braku hostingu, który potrafi ustawić nagłówki.
+# Kiedy domena automaticai.pl trafi na Netlify, Cloudflare Pages albo własny
+# serwer, ta konfiguracja ma być gotowa, a nie odtwarzana z pamięci.
+#
+# Odpowiedniki dla innych hostingów: docs/naglowki-hostingu.md
+#
+# Czego tu NIE MA i dlaczego:
+#   Content-Security-Policy — jest już wstrzykiwane jako <meta> przez
+#   scripts/inject-csp.mjs, z hashem każdego inline skryptu. Powtórzenie
+#   go tutaj rozjechałoby się z hashami przy pierwszym buildzie.
+
+/*
+  # Klikjacking. Tego JEDNEGO nie da się ustawić z <meta> — przeglądarki
+  # ignorują tam frame-ancestors, a X-Frame-Options nigdy nie działał
+  # jako meta. Dopóki strona stoi na Pages, jest bez tej ochrony.
+  X-Frame-Options: DENY
+  Content-Security-Policy: frame-ancestors 'none'
+
+  # Blokuje zgadywanie typu pliku wbrew nagłówkowi Content-Type.
+  X-Content-Type-Options: nosniff
+
+  # Do innych witryn wychodzi samo pochodzenie, bez ścieżki i parametrów.
+  Referrer-Policy: strict-origin-when-cross-origin
+
+  # Strona nie używa żadnej z tych rzeczy — wyłączamy je wprost, żeby
+  # ewentualny wstrzyknięty skrypt też nie mógł ich użyć.
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(), usb=(), interest-cohort=()
+
+  # HSTS włączyć DOPIERO gdy domena i wszystkie subdomeny na pewno
+  # serwują HTTPS — cofnięcie tego wymaga odczekania max-age u każdego,
+  # kto stronę odwiedził. Zaczynać od krótkiego max-age, bez preload.
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+  # ── Izolacja miedzyzrodlowa ────────────────────────────────────────────
+  # Strona nie osadza niczego z obcych hostow i nie chce byc osadzana.
+  #
+  #   COOP  — okno otwarte z innej witryny nie dostaje uchwytu do naszego
+  #           (ani nasze do jego). Zamyka klase atakow przez `window.opener`
+  #           przy `target="_blank"`.
+  #   CORP  — nasze pliki nie daja sie zaciagnac przez obca witryne jako
+  #           obrazek, skrypt czy font.
+  #   COEP  — celowo `credentialless`, nie `require-corp`: wszystkie zasoby
+  #           sa wlasne, wiec twardszy wariant tez by przeszedl, ale ten nie
+  #           wywroci strony, gdy kiedys dojdzie osadzenie z zewnatrz.
+  Cross-Origin-Opener-Policy: same-origin
+  Cross-Origin-Resource-Policy: same-origin
+  Cross-Origin-Embedder-Policy: credentialless
+
+  # Przegladarka nie rozwiazuje w tle nazw z odnoscikow — mniej sygnalu o tym,
+  # dokad uzytkownik MOZE pojsc, wysylanego zanim gdziekolwiek pojdzie.
+  X-DNS-Prefetch-Control: off
+
+# ── Zasoby z odciskiem tresci w nazwie ───────────────────────────────────
+# Pliki z /_next/static/ maja hash w nazwie, wiec ich tresc nigdy sie nie
+# zmienia — zmienia sie nazwa. Rok w pamieci podrecznej jest tu bezpieczny
+# i oszczedza kazdemu powracajacemu uzytkownikowi ponownego pobrania.
+/_next/static/*
+  Cache-Control: public, max-age=31536000, immutable
